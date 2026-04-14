@@ -20,7 +20,7 @@ The Active Directory Detection Lab project involved the deployment of a virtuali
 - Threat Intelligence: MISP (Indicators of Compromise Correlation).
 
 ## Steps
-I started by mapping out a diagram of the network.
+I started by designing the network architecture to define the data flow between the attack, target, and analysis nodes.
 
 *Ref 1: Network Diagram* <br>
 <img width="707" height="578" alt="Screenshot 2026-04-14 at 07 15 06" src="https://github.com/user-attachments/assets/950d49d4-a9d1-4e6e-a6d2-9271fc050c9d" />
