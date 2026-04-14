@@ -4,7 +4,7 @@
 The Active Directory Detection Lab project involved the deployment of a virtualized domain environment integrated with Splunk, Kali Linux, and the Atomic Red Team framework. The primary objective was to engineer a robust pipeline for ingesting security events into a SIEM, enabling deep analysis of enterprise-level telemetry. By simulating adversary techniques seen in the real world, the project provided hands-on experience in correlating log data with specific attack patterns to refine detection logic and defensive posture.
 
 ### Skills Learned
-- Mastered centralized log ingestion and complex data correlation within Splunk.
+- Implemented centralized log ingestion and complex data correlation within Splunk.
 - Simulated real-world threat TTPs using the MITRE ATT&CK framework and Atomic Red Team.
 - Analyzed and interpreted disparate data sources, including Sysmon and Windows Event Logs.
 - Identified malicious traffic patterns and protocol anomalies across TCP/IP, DNS, and HTTP/S.
